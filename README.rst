@@ -2,7 +2,7 @@
 What?
 =====
 
-This is a pretty quick and hopefully equally featured implementations of event-based
+These are two pretty quick and hopefully equally featured implementations of event-based
 aync I/O HTTP servers written with 2 different server frameworks:
 
 * NodeJS
