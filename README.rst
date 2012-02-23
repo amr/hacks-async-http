@@ -34,10 +34,10 @@ Netty Server
 You need to have the JVM and Maven installed. Then::
 
     cd netty-http-server/
-	mvn dependency:copy-dependencies
-	mvn package
-	cd target/
-	java -jar netty-http-server-VERSION_HERE.jar
+    mvn dependency:copy-dependencies
+    mvn package
+    cd target/
+    java -jar netty-http-server-VERSION_HERE.jar
 
 THe netty-based HTTP server is now listening on port `9090`.
 
